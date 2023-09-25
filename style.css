@@ -16,7 +16,6 @@ header {
 nav ul {
   list-style-type: none;
   padding: 0;
-  text-align: right;
 }
 
 nav ul li {
@@ -27,6 +26,7 @@ nav ul li {
 nav ul li a {
   text-decoration: none;
   color: white;
+  text-align: right;
 }
 
 section {
